@@ -1,4 +1,4 @@
-// http4Lets
+// redirect2https
 package main
 
 import (
